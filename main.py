@@ -1,7 +1,7 @@
 from pytube import YouTube
 #-----Mudar 'loca_save' para aonde você deseja salvar os arquivos--------
 #-----Change 'loca_save' to where you want to save the files-------------
-local_save="C:/Users/dudur/OneDrive/Área de Trabalho/audio"
+local_save="C:/Users/user/desktop/audio"
 
 #--------Função que faz download do arquivo formato video--------
 #--------Function that downloads the video format file-----------
