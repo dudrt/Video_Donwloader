@@ -117,3 +117,6 @@ elif all == 'NAO' or all== 'NÃO':
             tipo_arquivo=int(input('Digite como você deseja baixar:\n1-Melhor qualidade vídeo.'+
 '\n2-Baixar audio.'+
 '\n3-Escolher.\nR:'))
+            
+else:
+    print('Escolha uma opção válida')
