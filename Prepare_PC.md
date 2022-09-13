@@ -1,6 +1,6 @@
 # 🐍 Python 🐍
 
-Se você entrou aqui precisa de ajuda para deixar seu PC pronto para aceitar arquivo de python. Siga os passos a baixo.
+Se você entrou aqui precisa de ajuda para deixar seu PC pronto para aceitar arquivos de python. Siga os passos a baixo.
 
 - `Baixar o Python`
 - `Baixar uma IDE`
