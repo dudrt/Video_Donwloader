@@ -37,5 +37,14 @@ https://blog.geekhunter.com.br/ides-e-editores-de-codigo-em-python-para-2021/
 
 # 📥 Baixar biblioteca utilizada 
 
-- Agora você deve baixar a biblioteca, para isso você deve:
-• 
+- Agora você deve baixar a biblioteca, para isso você deve:<br>
+• No canto superior direito você verá o seguinte:<br>
+![Captura de tela 2022-09-13 195720](https://user-images.githubusercontent.com/89606226/190023893-d7324a58-1575-4ad3-b5eb-3680c4743c79.png)<br>
+• Clique aonde aponta a seta e então o terminal irá se abrir:<br>
+• Agora você deve escrever o seguinte comando: **pip install pytube**<br>
+![Captura de tela 2022-09-13 195819](https://user-images.githubusercontent.com/89606226/190023972-cb407c5e-7759-4ca8-b97c-b48124eb8ee1.png)<br>
+• Caso apresente algum erro, pesquise sobre "**como instalar o PIP**", deixarei o link de um vídeo que usei para baixar o meu:<br>
+https://www.youtube.com/watch?v=MvUMAvmviaE<br>
+• Deu, agora você já possui tudo que é nescessário!
+
+# <a href='https://github.com/dudrt/Video_Donwloader/blob/main/instalar_biblioteca.md' target='_blank'> Clique aqui para voltar para o script! </a>
