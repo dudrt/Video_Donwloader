@@ -47,4 +47,4 @@ https://blog.geekhunter.com.br/ides-e-editores-de-codigo-em-python-para-2021/
 https://www.youtube.com/watch?v=MvUMAvmviaE<br>
 • Deu, agora você já possui tudo que é nescessário!
 
-# <a href='[https://github.com/dudrt/Video_Donwloader/blob/main/instalar_biblioteca.md](https://github.com/dudrt/Video_Donwloader/blob/main/main.py)' target='_blank'> Clique aqui para voltar para o script! </a>
+# <a href='https://github.com/dudrt/Video_Donwloader/blob/main/main.py' target='_blank'> Clique aqui para voltar para o script! </a>
