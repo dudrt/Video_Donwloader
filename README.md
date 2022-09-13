@@ -23,7 +23,7 @@ Site Oficial da documentação da biblioteca usada: https://pytube.io/en/latest/
 - Início:<br>
 • Quando você inicar, verá isto:<br>
 ![Captura de tela 2022-09-13 185424](https://user-images.githubusercontent.com/89606226/190016286-4b955066-ddff-4449-909a-d758821a5798.png)<br>
-• Você escolherá se quer baixar uma playlist ou vídeo, para mudar esta opção, você deve fechar e rodar novamente o script.<br>
+• Você escolherá se quer baixar uma playlist ou vídeo único, para mudar esta opção, você deve fechar e rodar novamente o script.<br>
 • Logo após, você deverá escolher uma das opções, caso escolha "SIM", enquanto o script estiver rodando, os seus arquivos serão baixados da mesma maneira.(vídeo ou áudio)<br>
 ![Captura de tela 2022-09-13 185641](https://user-images.githubusercontent.com/89606226/190016550-4bfe87df-dd7a-46db-ab90-db60ea9b979d.png)<br>
 • Caso escolha 'NÃO', terá de escolher a maneira que deseja baixar seu arquivo após cada download.<br>
