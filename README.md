@@ -9,11 +9,12 @@ Site Oficial da documentação da biblioteca usada: https://pytube.io/en/latest/
 - `Baixar Vídeos Automaticamente`: Baixar vídeos do YouTube com a maior qualidade possível.<br> 
 - `Baixar Audio Automaticamente`: Baixar vídeos do Youtube em formato de áudio.<br> 
 - `Escolher a Melhor Configuração para Baixar Vídeos`: Você consegue escolher qual a qualidade de vídeo ou áudio se encaixa melhor para o seu projeto.<br>
-
+- `Baixar Playlists`:Você consegue baixar playlists inteiras com cada opção a cima, facilitando assim o download.<br>
 # ⚙️ Usabilidade ⚙️
 - Ferramentas Nescessárias:<br>
 • Para você usar este script, deverá possuir o python. Para obter, basta você baixá-lo em:**https://www.python.org**<br>
 • Para você usar este script, deverá baixar a biblioteca **pytube**. Se possuir o pip, seu comando será:**$ pip install pytube** <br>
+• Caso você seja leigo em python, <a href='https://github.com/dudrt/Video_Donwloader/blob/main/instalar_biblioteca.md' target="_blank" >clique aqui<\a>
 • Logo após, basta abrir o script em sua IDE de escolha e rodar!
 - Como usar:<br>
 • Este script é extremamente fácil de ser usado, você apenas precisará executá-lo e tudo será rodado no terminal!<br>
