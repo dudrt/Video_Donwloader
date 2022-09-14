@@ -14,24 +14,34 @@ def best_quality(link,playlist):
             print('Erro ao conectar, verifique sua internet!')
         try:
             for video in p.videos:
-                print('Espere até o download estar completo!')
-                stream=video.streams.get_highest_resolution()
-                stream.download(local_save)
-                print(f'Download completo {video.title} !\n--------------')
+                try:
+                    print('Espere até o download estar completo!')
+                    stream=video.streams.get_by_itag(22)
+                    stream.download(local_save)
+                    print(f'Download completo {video.title} !\n--------------')
+                except:
+                    print('Qualidade 1080p inexistente, tentando baixar em 720p')
+                    try:
+                        print('Espere até o download estar completo!')
+                        stream=video.streams.get_by_itag(18)
+                        stream.download(local_save)
+                        print(f'Download completo {video.title} !\n--------------')
+                    except:
+                        print('Qualidade máxima baixa, tente baixar escolhendo a opção :3')
         except:
             print('Fim')
-        else:    
-            try:
-                yt=YouTube(link)
-            except:
-                print('Erro ao conectar, verifique sua internet!')
-            try:
-                print('Espere até o download estar completo!')
-                stream=yt.streams.get_highest_resolution()
-                stream.download(local_save)
-                print(f'Download completo {yt.title} !\n--------------')
-            except:
-                print('erro ao baixar')
+    else:    
+        try:
+            yt=YouTube(link)
+        except:
+            print('Erro ao conectar, verifique sua internet!')
+        try:
+            print('Espere até o download estar completo!')
+            stream=yt.streams.get_highest_resolution()
+            stream.download(local_save)
+            print(f'Download completo {yt.title} !\n--------------')
+        except:
+            print('erro ao baixar')
 
 #--------Função que faz download do arquivo formato audio--------
 #--------Function that downloads the audio format file-----------
