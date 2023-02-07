@@ -14,7 +14,7 @@ Site Oficial da documentação da biblioteca usada: https://pytube.io/en/latest/
 - Ferramentas Nescessárias:<br>
 • Para você usar este script, deverá possuir o python. Para obter, basta você baixá-lo em:**https://www.python.org**<br>
 • Para você usar este script, deverá baixar a biblioteca **pytube**. Se possuir o pip, seu comando será:**$ pip install pytube** <br>
-• Caso você seja leigo em python, <a href='https://github.com/dudrt/Video_Donwloader/blob/main/instalar_biblioteca.md' target='_blank'> clique aqui </a> para aprender a deixar seu PC pronto para aceitar arquivos **.py**.(Você será redirecionado a uma nova página)<br>
+• Caso você seja leigo em python, <a href='https://github.com/dudrt/Video_Downloader/blob/main/Prepare_PC.md' target='_blank'> clique aqui </a> para aprender a deixar seu PC pronto para aceitar arquivos **.py**.(Você será redirecionado a uma nova página)<br>
 • Logo após, basta abrir o script em sua IDE de escolha e rodar!
 - Como usar:<br>
 • Este script é extremamente fácil de ser usado, você apenas precisará executá-lo e tudo será rodado no terminal!<br>
